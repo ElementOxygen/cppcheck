@@ -126,3 +126,6 @@ compile_commands.json
 
 #debian build system
 /debian
+
+out
+work
